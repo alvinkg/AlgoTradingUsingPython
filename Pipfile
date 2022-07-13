@@ -9,6 +9,7 @@ numpy = "*"
 pandas = "*"
 requests = "*"
 xlsxwriter = "*"
+scipy = "*"
 
 [dev-packages]
 
